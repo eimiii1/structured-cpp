@@ -2,7 +2,7 @@
 
 A collection of small C++ projects and experiments built while learning and mastering core programming concepts.
 
-This repository documents my progress in C++ — from fundamentals to more advanced topics like memory management, OOP, and STL usage.
+This repository documents my progress in C++ from fundamentals to more advanced topics like memory management, OOP, and STL usage.
 
 ---
 
