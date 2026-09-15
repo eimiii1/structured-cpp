@@ -12,7 +12,7 @@ This repository documents my progress in C++ from fundamentals to more advanced 
 - Understand memory, pointers, and references deeply
 - Explore object-oriented programming
 - Experiment with STL containers
-- Improve problem-solving and code structure
+- Improve problem-solving and code structures
 
 ---
 
