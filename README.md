@@ -25,7 +25,7 @@ This repository documents my progress in C++ from fundamentals to more advanced 
 - 🔄 Sorting Techniques
 - 🔄 STL Containers
 
-(Will continue expanding as I progress.)
+(Will continue.)
 
 ---
 
